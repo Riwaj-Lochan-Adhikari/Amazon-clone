@@ -27,7 +27,7 @@ body {
 #navbar {
     width: 100%;
     height: 1.8%;
-    /* see in yt how to see the exact size of divs in yt or ask a friend */
+  
     background-color: #101820;
     color: white;
     display: flex;
@@ -480,3 +480,4 @@ body {
      background-size: contain;
     background-repeat: no-repeat;
  }
+
